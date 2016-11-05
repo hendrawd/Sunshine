@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/isfaaghyth/Documents/Sunshine/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/isfaaghyth/Documents/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_cb5910d77fa38d18981e44cc02683ca648d1aa0f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/isfaaghyth/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.0/c4ba5371a29ac9b2ad6129b1d39ea38750043eff/gson-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="/home/isfaaghyth/Documents/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.8.0_41f72c99a1c237b6953c4c8305b8d28710167a30/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/isfaaghyth/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/home/isfaaghyth/Documents/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_511e4775daa366c2ac2c4f82edd145672ca82e56/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/isfaaghyth/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/isfaaghyth/Documents/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_ae3196a234cab5984d6cef6757f66befc35af9a3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/isfaaghyth/Documents/Sunshine/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/home/isfaaghyth/Documents/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_04448557ad05d4121aef34751e04ae3b945e04f4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/isfaaghyth/Documents/Sunshine/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/isfaaghyth/Documents/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_27464bee9180c77095e24cc6ea22ea00046f10c6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/isfaaghyth/.gradle/caches/modules-2/files-2.1/com.mcxiaoke.volley/library/1.0.19/a8f23f65fc1e522ee4a1a697ee569901a46741fa/library-1.0.19.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="/home/isfaaghyth/Documents/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/library-1.0.19_03ef3a76f9f8ba5fd6315ce6fbbb47ea32a68a8b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/isfaaghyth/Documents/Sunshine/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="067348c7bd0eb2a2cb7438b9df594ad1c162fcd5">
+        <dex dex="/home/isfaaghyth/Documents/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5f394c370bcbe3e0f48e9e1b098a1ae25a0d864f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/isfaaghyth/Documents/Sunshine/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/isfaaghyth/Documents/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_0321319fdcf23ebb5a04d6b48f0d8c6cb603369c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/isfaaghyth/Documents/Sunshine/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/home/isfaaghyth/Documents/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_d0ab1cf73e30cb3de4e083331c34b2b495ae1661/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/isfaaghyth/Documents/Sunshine/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/isfaaghyth/Documents/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_ffc7c6afe615db946cfb4f0312d67bb282697edc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/isfaaghyth/Documents/Sunshine/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/isfaaghyth/Documents/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_a41862beaa5f37c3621d8f2f24b142ddbf2529d8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/isfaaghyth/Documents/Sunshine/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/isfaaghyth/Documents/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_db7d76d345a224c9089f56b059661234eff4314f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/isfaaghyth/Documents/Sunshine/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/isfaaghyth/Documents/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_f26ee4debc952d423f9f9024b0e7d5ab510ece1f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/isfaaghyth/Documents/Sunshine/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/isfaaghyth/Documents/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_de561fc0d5b56c131f5ca46249e668b17d49a07c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/isfaaghyth/Documents/Sunshine/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/isfaaghyth/Documents/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_d198c42cdfa1ff1ccfc7119f0a012c2ab6d3daae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/isfaaghyth/Documents/Sunshine/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="/home/isfaaghyth/Documents/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-24.2.1_970d77653fff80b8e26d6b81ee495b0d82ac2a3d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/isfaaghyth/Documents/Sunshine/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/isfaaghyth/Documents/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_647739842e9e7e3b529590b0479aadad51987486/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/isfaaghyth/Documents/Sunshine/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="136f009af5efef50823cc7cadbc3e4a8a979da6f">
+        <dex dex="/home/isfaaghyth/Documents/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_eb6c8b161889d4ee57986fe5ad19fd40ecf05a11/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/isfaaghyth/Documents/Sunshine/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/isfaaghyth/Documents/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_06517573621c85a4196f5da0f349d404746b07f6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/isfaaghyth/Documents/Sunshine/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/isfaaghyth/Documents/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_c63c81ea00a15b41b1fc3e78ada1dc5db1e6530d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/isfaaghyth/Documents/Sunshine/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/isfaaghyth/Documents/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_a60b3100156e76a614e1ecc0d50c954667b5878a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/isfaaghyth/Documents/Sunshine/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/isfaaghyth/Documents/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_05359cbb7aa9da75edf5386f88924206bfa5fe38/classes.dex" />
+    </item>
+
+</items>
