@@ -25,7 +25,8 @@ public class MainActivity extends AppCompatActivity {
     private void getData() {
         cloudConnecting = new CloudConnecting();
         cloudConnecting.getData(getApplicationContext(),
-                url.getCurrentWeather("Jakarta"), new CloudResult() {
+                url.getCurrentWeather("Jakarta"), 
+                new CloudResult() {
                     @Override
                     public void resultData(String response) {
                         Toast.makeText(MainActivity.this,
