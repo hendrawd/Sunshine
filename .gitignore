@@ -1,8 +1,12 @@
 *.iml
-*.gradle
+.gradle
 local.properties
 .idea
+#/.idea/workspace.xml
+#/.idea/libraries
 .DS_Store
 build
 captures
 app/mirror
+projectFilesBackup/
+.externalNativeBuild
